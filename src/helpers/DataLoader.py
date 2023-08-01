@@ -9,3 +9,4 @@ class Dataloader:
         data = pd.read_csv(self.path)
 
         return data
+saludos
